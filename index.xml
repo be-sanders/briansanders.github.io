@@ -1,13 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website of Brian Sanders</title>
     <link>http://www.briansanders.net/</link>
     <description>Recent content on Website of Brian Sanders</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-        <atom:link href="http://www.briansanders.net/index.xml" rel="self" type="application/rss+xml" />
-    
+    <language>en-us</language><atom:link href="http://www.briansanders.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://www.briansanders.net/about/</link>
@@ -16,5 +14,6 @@
       <guid>http://www.briansanders.net/about/</guid>
       <description>Title This is just an experiment.</description>
     </item>
+    
   </channel>
 </rss>
